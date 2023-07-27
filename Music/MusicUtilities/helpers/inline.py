@@ -174,7 +174,7 @@ start_keyboard = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "📚 ᴄᴏᴍᴍᴀɴᴅꜱ​ ", url="https://telegra.ph/𝗕ooo--‌ᴀꜰᴋ-ᴏꜰꜰʟɪɴᴇ-01-03"
+                "📚 ᴄᴏᴍᴍᴀɴᴅꜱ​ ", url="https://graph.org/ＩＭ-ᴰᴱᴬᴰ-07-27-2"
             )
         ],
         [InlineKeyboardButton("🗑️ ᴄʟᴏꜱᴇ", callback_data="close2")],
